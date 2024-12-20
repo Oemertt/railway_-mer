@@ -1,0 +1,6 @@
+[submodule "FlaskProject"]
+	path = FlaskProject
+	url = file:///Users/oemer.t/PycharmProjects/FlaskProject
+[submodule "railway-management-system_ömer"]
+	path = railway-management-system_ömer
+	url = file:///Users/oemer.t/WebstormProjects/railway-management-system_ömer
